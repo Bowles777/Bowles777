@@ -2,7 +2,7 @@
 
 # Luke *Bowles*
 
-**Software Engineer** &nbsp;·&nbsp; Perth, Western Australia
+**Software Engineer** &nbsp;·&nbsp; Jersey, Channel Islands
 
 [![Email](https://img.shields.io/badge/Luke.Bowles7%40gmail.com-c8873a?style=flat-square&logo=gmail&logoColor=white)](mailto:Luke.Bowles7@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luke-bowles-b2b3b21a3/)
