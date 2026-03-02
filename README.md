@@ -1,6 +1,7 @@
 <div align="center">
 
-# Luke *Bowles*
+## Welcome to my work in progress 
+### I'm currently leveraging the experience I have below to make some personal projects!
 
 **Software Engineer** &nbsp;·&nbsp; Jersey, Channel Islands
 
@@ -13,54 +14,6 @@
 ---
 
 Software engineer with 3+ years of experience in full-stack and mobile application development within FinTech and automated logistics. Expert in high-performance web applications using React, Next.js, and TypeScript, backed by Java, Python, and SQL. Proven ability to lead frontend design processes and deliver innovative solutions in fast-paced Agile environments.
-
----
-
-## Experience
-
-**Software Engineer** &nbsp;·&nbsp; *FinClear, Perth* &nbsp;&nbsp; `Aug 2025 — Present`
-
-<details>
-<summary>expand</summary>
-<br>
-
-- Engineered a comprehensive software suite enhancement for web applications enabling financial advisers to execute transactions on the Australian Stock Markets
-- Developed and optimised Java Microservices to facilitate synchronous system interactions and data integrity
-- Collaborated within a high-performing Agile Scrum team to deliver iterative features for large-scale financial platforms
-- Leveraged TypeScript, React, and Next.js to modernise legacy UI components and improve user experience
-
-</details>
-
-<br>
-
-**Lead Frontend Developer** &nbsp;·&nbsp; *DDC, Manchester* &nbsp;&nbsp; `Oct 2023 — May 2025`
-
-<details>
-<summary>expand</summary>
-<br>
-
-- Led frontend architecture for three major projects, managing design mockups and implementation from inception to deployment
-- Developed an automated "Bill of Lading" input portal using React, Vite, and MUI — incorporating a personalised CLI, complex data visualisation, and real-time statistics
-- Architected a construction material catalogue with Next.js, optimising for performance and searchability
-- Maintained and enhanced a mobile platform using React Native for iOS and Android, utilising Xcode and Android Studio for platform-specific debugging
-- Refactored legacy JavaScript and Java codebases to improve maintainability and system uptime
-
-</details>
-
-<br>
-
-**Graduate Software Programmer** &nbsp;·&nbsp; *FinClear, Perth* &nbsp;&nbsp; `Nov 2021 — May 2023`
-
-<details>
-<summary>expand</summary>
-<br>
-
-- Developed software features and alterations based on rigorous design specifications within the FinTech sector
-- Gained deep domain knowledge of financial business models, applying technical solutions to industry-specific problems
-- Expanded technical proficiency in SQL (PostgreSQL, Oracle, MSSQL), JavaFX, and Polymer
-- Actively participated in cross-functional team meetings, enhancing communication and project timeline management
-
-</details>
 
 ---
 
@@ -117,17 +70,6 @@ Software engineer with 3+ years of experience in full-stack and mobile applicati
 | **BSc Computer Science & Data Science** | *University of Western Australia, Perth* | `2020 – 2023` |
 | **ATAR (WACE) Certificate** | *Hale School, Perth* | `2014 – 2019` |
 
----
-
-## GitHub Stats
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bowles777&show_icons=true&hide_border=true&bg_color=1a1a1a&title_color=c8873a&icon_color=c8873a&text_color=999999)](https://github.com/Bowles777)
-&nbsp;
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bowles777&layout=compact&hide_border=true&bg_color=1a1a1a&title_color=c8873a&text_color=999999)](https://github.com/Bowles777)
-
-</div>
 
 ---
 
