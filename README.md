@@ -1,19 +1,25 @@
 <div align="center">
 
-## Welcome to my work in progress 
-### I'm currently leveraging the experience I have below to make some personal projects!
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=c8873a&center=true&width=435&lines=Software+Engineer;Building+things+I+wish+existed;Always+learning+something+new" alt="Typing SVG" />
 
 **Software Engineer** &nbsp;·&nbsp; Jersey, Channel Islands
 
 [![Email](https://img.shields.io/badge/Luke.Bowles7%40gmail.com-c8873a?style=flat-square&logo=gmail&logoColor=white)](mailto:Luke.Bowles7@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luke-bowles-b2b3b21a3/)
-[![Phone](https://img.shields.io/badge/%2B61_429_535_530-555555?style=flat-square&logoColor=white)]()
 
 </div>
 
 ---
 
-Software engineer with 3+ years of experience in full-stack and mobile application development within FinTech and automated logistics. Expert in high-performance web applications using React, Next.js, and TypeScript, backed by Java, Python, and SQL. Proven ability to lead frontend design processes and deliver innovative solutions in fast-paced Agile environments.
+I like building things that are fast, clean, and actually useful. Most of my work has been in FinTech and logistics, but I'm expanding into personal projects and open source. Right now I'm particularly interested in developer tooling and anything that makes complex systems feel simple.
+
+---
+
+## Right now
+
+- **Building:** personal projects (watch this space)
+- **Learning:** exploring new tools and patterns outside of day-to-day work
+- **Looking to contribute to:** open source projects where I can make a meaningful dent
 
 ---
 
@@ -70,6 +76,11 @@ Software engineer with 3+ years of experience in full-stack and mobile applicati
 | **BSc Computer Science & Data Science** | *University of Western Australia, Perth* | `2020 – 2023` |
 | **ATAR (WACE) Certificate** | *Hale School, Perth* | `2014 – 2019` |
 
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bowles777&layout=compact&theme=dark&title_color=c8873a&icon_color=c8873a&hide_border=true" />
+</div>
 
 ---
 
@@ -87,5 +98,5 @@ Software engineer with 3+ years of experience in full-stack and mobile applicati
 ---
 
 <div align="center">
-  <sub>Perth, WA &nbsp;·&nbsp; +61 429 535 530 &nbsp;·&nbsp; <a href="mailto:Luke.Bowles7@gmail.com">Luke.Bowles7@gmail.com</a></sub>
+  <sub>Jersey, Channel Islands &nbsp;·&nbsp; <a href="mailto:Luke.Bowles7@gmail.com">Luke.Bowles7@gmail.com</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/luke-bowles-b2b3b21a3/">LinkedIn</a></sub>
 </div>
